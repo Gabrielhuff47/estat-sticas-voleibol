@@ -1,0 +1,73 @@
+
+
+DADOS DO JOGADOR 1, Nome:MarinsAtaque:4 Bloqueio:5 Saque:2 Total de pontos:11 Media de pontos por set:2.2
+
+DADOS DO JOGADOR 2, Nome:HuffAtaque:2 Bloqueio:2 Saque:2 Total de pontos:6 Media de pontos por set:1.2
+
+DADOS DO JOGADOR 3, Nome:MiguelAtaque:1 Bloqueio:1 Saque:1 Total de pontos:3 Media de pontos por set:0.6
+
+DADOS DO JOGADOR 4, Nome:sAtaque:0 Bloqueio:4205521 Saque:0 Total de pontos:4205521 Media de pontos por set:841104.2
+
+DADOS DO JOGADOR 5, Nome:wAtaque:0 Bloqueio:1 Saque:0 Total de pontos:1 Media de pontos por set:0.2
+
+DADOS DO JOGADOR 6, Nome:aAtaque:0 Bloqueio:4205545 Saque:0 Total de pontos:4205545 Media de pontos por set:841109.0
+
+DADOS DO JOGADOR 1, Nome:MiguelAtaque:5 Bloqueio:5 Saque:5 Total de pontos:15 Media de pontos por set:3.0
+
+DADOS DO JOGADOR 2, Nome:GabrielAtaque:4 Bloqueio:3 Saque:2 Total de pontos:9 Media de pontos por set:1.8
+
+DADOS DO JOGADOR 3, Nome:HuffAtaque:2 Bloqueio:1 Saque:0 Total de pontos:3 Media de pontos por set:0.6
+
+DADOS DO JOGADOR 4, Nome:LucasAtaque:4 Bloqueio:4 Saque:4 Total de pontos:12 Media de pontos por set:2.4
+
+DADOS DO JOGADOR 5, Nome:SAtaque:4 Bloqueio:3 Saque:2 Total de pontos:9 Media de pontos por set:1.8
+
+DADOS DO JOGADOR 6, Nome:jAtaque:5 Bloqueio:5 Saque:5 Total de pontos:15 Media de pontos por set:3.0
+
+DADOS DO JOGADOR 1, Nome:GabrielAtaque:4 Bloqueio:4 Saque:4 Total de pontos:12 Media de pontos por set:2.4
+
+DADOS DO JOGADOR 2, Nome:HuffAtaque:3 Bloqueio:3 Saque:3 Total de pontos:9 Media de pontos por set:1.8
+
+DADOS DO JOGADOR 3, Nome:MiguelAtaque:5 Bloqueio:5 Saque:5 Total de pontos:15 Media de pontos por set:3.0
+
+DADOS DO JOGADOR 4, Nome:RamiroAtaque:6 Bloqueio:6 Saque:6 Total de pontos:18 Media de pontos por set:3.6
+
+DADOS DO JOGADOR 5, Nome:SlaAtaque:8 Bloqueio:8 Saque:8 Total de pontos:24 Media de pontos por set:4.8
+
+DADOS DO JOGADOR 6, Nome:4.4Ataque:5 Bloqueio:4205545 Saque:0 Total de pontos:4205550 Media de pontos por set:841110.0
+
+DADOS DO JOGADOR 1, Nome:MiguelAtaque:4 Bloqueio:4 Saque:4 Total de pontos:12 Media de pontos por set:2.4
+
+DADOS DO JOGADOR 2, Nome:HuffAtaque:5 Bloqueio:5 Saque:5 Total de pontos:15 Media de pontos por set:3.0
+
+DADOS DO JOGADOR 3, Nome:LucasAtaque:6 Bloqueio:6 Saque:6 Total de pontos:18 Media de pontos por set:3.6
+
+DADOS DO JOGADOR 4, Nome:ThiamacoAtaque:88 Bloqueio:7 Saque:7 Total de pontos:102 Media de pontos por set:20.4
+
+DADOS DO JOGADOR 5, Nome:SlaAtaque:4 Bloqueio:44 Saque:4 Total de pontos:52 Media de pontos por set:10.4
+
+DADOS DO JOGADOR 6, Nome:LoAtaque:3 Bloqueio:3 Saque:3 Total de pontos:9 Media de pontos por set:1.8
+
+DADOS DO JOGADOR 1, Nome:GabrielAtaque:4 Bloqueio:4 Saque:4 Total de pontos:12 Media de pontos por set:2.4
+
+DADOS DO JOGADOR 2, Nome:HuffAtaque:2 Bloqueio:3 Saque:1 Total de pontos:6 Media de pontos por set:1.2
+
+DADOS DO JOGADOR 3, Nome:MarinsAtaque:4 Bloqueio:5 Saque:6 Total de pontos:15 Media de pontos por set:3.0
+
+DADOS DO JOGADOR 4, Nome:ramiroAtaque:4 Bloqueio:2 Saque:1 Total de pontos:7 Media de pontos por set:1.4
+
+DADOS DO JOGADOR 5, Nome:MiguelAtaque:5 Bloqueio:5 Saque:5 Total de pontos:15 Media de pontos por set:3.0
+
+DADOS DO JOGADOR 6, Nome:LucasAtaque:6 Bloqueio:6 Saque:6 Total de pontos:18 Media de pontos por set:3.6
+
+DADOS DO JOGADOR 1, Nome:GabrielAtaque:4 Bloqueio:4 Saque:4 Total de pontos:12 Media de pontos por set:2.4
+
+DADOS DO JOGADOR 2, Nome:HuffAtaque:2 Bloqueio:3 Saque:1 Total de pontos:6 Media de pontos por set:1.2
+
+DADOS DO JOGADOR 3, Nome:MiguelAtaque:4 Bloqueio:5 Saque:2 Total de pontos:11 Media de pontos por set:2.2
+
+DADOS DO JOGADOR 4, Nome:RamiroAtaque:5 Bloqueio:8 Saque:4 Total de pontos:17 Media de pontos por set:3.4
+
+DADOS DO JOGADOR 5, Nome:LucasAtaque:4 Bloqueio:2 Saque:3 Total de pontos:9 Media de pontos por set:1.8
+
+DADOS DO JOGADOR 6, Nome:ChristiabnAtaque:5 Bloqueio:5 Saque:5 Total de pontos:15 Media de pontos por set:3.0
